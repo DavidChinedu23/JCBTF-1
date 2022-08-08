@@ -37,11 +37,11 @@ $ python
 <th>DURATION</th>
 </tr>
 <tr>
-<td>5000..</td>
+<td>5000</td>
 <td>2 WEEKS</td>
 </tr>
 <tr>
-<td>10000..</td>
+<td>10000</td>
 <td>PREMIUM</td>
 </tr>
 </table>
